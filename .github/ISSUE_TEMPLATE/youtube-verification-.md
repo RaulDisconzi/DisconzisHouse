@@ -9,7 +9,7 @@ assignees: ''
 
 **Qual o seu nome do Discord?**
 
-Nome do canal
+Nome do seu Discord
 
 **Qual o Link do seu Canal?**
 
